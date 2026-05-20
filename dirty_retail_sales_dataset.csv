@@ -1,0 +1,22 @@
+Order_ID,Customer_Name,Gender,Branch,Product,Category,Quantity,Unit_Price,Total_Sales,Order_Date,Payment_Method,Customer_Email,Customer_Location,Discount_Code,Staff_Notes
+ORD001, John Doe ,male,Lagos Branch,Laptop,Electronics,2,₦350000,700000,12/01/2024,Card,johndoe@gmail.com,Lagos-Nigeria,DISC10,urgent delivery
+ORD002,mary ann,F,Abuja branch,Phone,Electronics,three,₦150000,450000,2024-01-15,Cash,maryann@yahoo.com,Abuja-Nigeria,,late payment
+ORD003, Peter Obi,Male,Kano Branch,labtop,Electronics,1,400000NGN,400000,15-01-2024,Transfer,peterobi@gmail, Kano-Nigeria ,DISC5,VIP customer
+ORD003, Peter Obi,Male,Kano Branch,labtop,Electronics,1,400000NGN,400000,15-01-2024,Transfer,peterobi@gmail, Kano-Nigeria ,DISC5,VIP customer
+ORD004,Chioma James,female,LAGOS branch,Printer,Office Equipment,4,₦85000,340000,01/18/2024,card,chioma@gmail.com,Lagos-Nigeria,,needs follow-up
+ORD005,David Musa,M,Abuja Branch,Desk,,2,120000NGN,240000,2024/01/20,CASH,davidmusa@gmail.com,Abuja-Nigeria,DISC20,
+ORD006, Esther Ali ,Female,Kaduna Branch,Phone,Electronics,five,₦160000,800000,21-01-2024,Transfer,estherali@gmail.com,Kaduna-Nigeria,,customer complained
+ORD007,Samuel Ade,male,Port Harcourt Branch,LAPTOP,electronics,1,₦355000,355000,2024-01-22,Card,samuelade@gmail.com,Port Harcourt-Nigeria,DISC10,deliver ASAP
+ORD008,Ngozi Eze,FEMALE,Lagos Branch,Chair,Furniture,6,₦25000,150000,23/01/2024,,ngozi@gmail.com,Lagos-Nigeria,,damaged package
+ORD009, Ibrahim Bello ,M,Kano branch,Table,Furniture,2,₦45000,90000,24-01-2024,Cash,ibrahimbello@gmail.com,Kano-Nigeria,DISC5,
+ORD010,Ada White,Female,Ibadan Branch,printer,Office equipment,1,₦80000,80000,2024.01.25,Card,adawhite@gmail,Ibadan-Nigeria,,repeat customer
+ORD011,John Doe,male,Lagos Branch,Laptop,Electronics,2,₦350000,700000,12/01/2024,Card,johndoe@gmail.com,Lagos-Nigeria,DISC10,urgent delivery
+ORD012,Kelvin Hart,Male,Abuja Branch,Phone,Electronics,3,₦155000,465000,26/01/2024,Transfer,kelvinhart@gmail.com,Abuja-Nigeria,,new customer
+ORD013, Blessing Sam ,F,Lagos Branch,Monitor,Electronics,2,₦95000,190000,27-01-2024,Cash,blessingsam@gmail.com,Lagos-Nigeria,,delayed response
+ORD014,Michael King,male,Kaduna branch,Desk,Furniture,one,₦125000,125000,2024/01/28,Card,michaelking@gmail.com,Kaduna-Nigeria,DISC15,
+ORD015,Rita Daniels,Female,Port Harcourt Branch,Phone,Electronics,4,₦158000,632000,29/01/2024,transfer,ritadaniels@gmail.com,Port Harcourt-Nigeria,,priority customer
+ORD016,Grace Peter,Female,Lagos Branch,Tablet,Electronics,2,₦120000,240000,30-01-2024,Card,gracepeter@gmail.com,Lagos-Nigeria,,pending confirmation
+ORD017, Musa Ibrahim ,M,Abuja Branch,Chair,Furniture,7,₦27000,189000,31/01/2024,Cash,musaibrahim@gmail.com,Abuja-Nigeria,,wrong address
+ORD018,Janet Cole,female,Kano Branch,Phone,Electronics,2,₦150000,300000,2024-02-01,Transfer,janetcole@gmail.com,Kano-Nigeria,DISC5,
+ORD019,Paul Adams,Male,Lagos branch,Laptop,Electronics,1,₦360000,360000,02/02/2024,Card,pauladams@gmail.com,Lagos-Nigeria,,high priority
+ORD020,Sandra Lee,F,Ibadan Branch,Table,Furniture,3,₦50000,150000,2024/02/03,CASH,sandralee@gmail.com,Ibadan-Nigeria,,customer requested refund
